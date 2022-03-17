@@ -18,7 +18,7 @@ import {
 
 //reemplazar si el proyecto cambia
 const firebaseConfig = {
-
+//paste credentials of firebase project
 };
 //reemplazar si el proyecto cambia
 
