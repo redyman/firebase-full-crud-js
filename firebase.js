@@ -19,7 +19,13 @@ import {
 //reemplazar si el proyecto cambia
 const firebaseConfig = {
 //paste credentials of firebase project
-};
+};  apiKey: "AIzaSyD09qLGbD422dV1nte_hGUT4wvsGxNqhI0",
+  authDomain: "crud-puro-js.firebaseapp.com",
+  projectId: "crud-puro-js",
+  storageBucket: "crud-puro-js.appspot.com",
+  messagingSenderId: "910427831931",
+  appId: "1:910427831931:web:1add8e935ec4a8a2be2cde",
+  measurementId: "G-D5GE2LQB3L"
 //reemplazar si el proyecto cambia
 
 // Initialize Firebase
