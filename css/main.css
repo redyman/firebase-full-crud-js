@@ -266,7 +266,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{ -webkit-t
 /* ==========================================================================
    Hero
    ========================================================================== */
-.height_7{ height: 750px; background-repeat: no-repeat !important; -webkit-background-size: cover!important; background-size: cover!important; }
+.height_7{ height: 100vh; background-repeat: no-repeat !important; -webkit-background-size: cover!important; background-size: cover!important; }
 .height_7.fixed_bg{ background-attachment: fixed; }
 /* Hero 1 */
 .hero-1.hero_section{ position: relative; z-index: 1; }

@@ -70,7 +70,7 @@
     .xs-padding{ padding: 15px; }
     .xs-no-padding{ padding: 0!important; }
     .height_7,
-    .slider_height{ height: 500px; }
+    .slider_height{ height: 100vh; }
     .menu-w-hero-1.hero_section{ height: auto; }
     .menu-w-hero-1 .hero_content { padding: 100px 0 40px; }
     .menu-w-hero-1 .form_container{ margin-bottom: 40px; }
@@ -123,7 +123,7 @@
     .col-xs-6{ float: none; width: 100%; }
     .client-2 .brands .col-xs-6{ float: left; width: 50%; padding: 5px; }
     .height_7,
-    .slider_height{ height: 380px; }
+    .slider_height{ height: 100vh; }
     .subscribe_form .submit { margin-top: 10px!important; margin-left: 0!important; width: 100%!important; }
     .subscribe_form .form_input {
         width: 100%!important;
